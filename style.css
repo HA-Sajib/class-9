@@ -1,0 +1,39 @@
+.bg {
+    background: #222f3eed;
+    padding: 0px;
+    margin-top: 20px;
+    border-radius: 10px 6px 10px 10px;
+}
+.contact-form form {
+    background: #222f3e;
+    padding: 20px;
+    border-radius: 385px 0px 285px 0px;
+}
+.contact-form form label {
+    color: #fff;
+    width: 30%;
+}
+.contact-form form input {
+    background: #ddd;
+    border: 2px solid #ee5253;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+}
+#date-of-birth {
+    background-color: #ddd!important;
+    color: #333;
+    width: 50%;
+    border: 2px solid #ee5253;
+    border-radius: 3px;
+}
+.submit-btn {
+    width: 30%;
+    background: #ee5253!important;
+    color: #fff;
+}
+.reset-btn {
+    width: 30%;
+    background: #fff!important;
+    color: #ee5253;
+}
